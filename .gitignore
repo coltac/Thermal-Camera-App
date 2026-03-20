@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+.kotlin
+.idea
+.DS_Store
+build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.deps/Android-UVC-Camera
