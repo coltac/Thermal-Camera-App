@@ -10,3 +10,13 @@ build
 .cxx
 local.properties
 .deps/Android-UVC-Camera
+.deps/AndroidUSBCamera/app
+.deps/AndroidUSBCamera/gradle
+.deps/AndroidUSBCamera/gradlew
+.deps/AndroidUSBCamera/gradlew.bat
+.deps/AndroidUSBCamera/build.gradle
+.deps/AndroidUSBCamera/settings.gradle
+.deps/AndroidUSBCamera/gradle.properties
+.deps/AndroidUSBCamera/images
+.deps/AndroidUSBCamera/libuvc/aar
+.deps/AndroidUSBCamera/libnative/aar
